@@ -1,4 +1,4 @@
-# muzammill tolagi
+
  
 
 <!-- Futuristic & Aesthetic Github Profile README for Muzammill Tolagi -->
@@ -7,8 +7,8 @@
 
 <img src="https://img.shields.io/badge/Mechanical%20Engineer-Expert-blue?style=for-the-badge&logo=github" alt="Mechanical Engineer Badge"/>
 
-👨‍💻Muzammill Tolagi
-**Mechanical Engineer | Problem Solver**
+**👨‍💻Muzammill Tolagi**
+.Mechanical Engineer. 
 
 
 </div>
@@ -27,7 +27,7 @@ I am a **Mechanical Engineer** passionate about CAD design, rapid prototyping, a
 
 - **Mechanical Engineer | Ashok Irons, Belagavi, Karnataka**  
   _Nov 2022 – Jan 2024_  
-  - 💡 Led technical support at installation & commissioning for customer sites.
+  - 💡 Led technical support at installation at customer sites.
   - 🖥️ Designed detail-rich technical drawings, schematics, and 3D layouts.
   - 🛠️ Built prototype and research-ready mechanical systems you can trust.
 
@@ -41,7 +41,7 @@ I am a **Mechanical Engineer** passionate about CAD design, rapid prototyping, a
 | SolidWorks 3D Modeling  | Adaptability            |
 | CAD Drafting            | Critical thinking       |
 | CNC & VMC Operation     | Leadership              |
-|                         | Emotional intelligence  |
+|  ANSYS                  | Emotional intelligence  |
 
 ---
 
@@ -50,7 +50,7 @@ I am a **Mechanical Engineer** passionate about CAD design, rapid prototyping, a
 - **Diploma in Mechanical Engineering**  
   _M L Bhartesh Polytechnic, Belgaum (2019 – 2022)_
 
-- **B.E. in Mechanical Engineering**  
+- **BACHELOR in Mechanical Engineering**  
   _S.G. Balekundri Institute of Technology, Belgaum (2024 – 2026)_
 
 ---
