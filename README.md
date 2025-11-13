@@ -1,13 +1,13 @@
-# muzammilltolagi
-muzammill tolagi profile 
-[README_Version8.md](https://github.com/user-attachments/files/23527086/README_Version8.md)
+# muzammill tolagi
+ 
+
 <!-- Futuristic & Aesthetic Github Profile README for Muzammill Tolagi -->
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Mechanical%20Engineer-Expert-blue?style=for-the-badge&logo=github" alt="Mechanical Engineer Badge"/>
 
-# 👨‍💻 Muzammill Tolagi
+👨‍💻Muzammill Tolagi
 **Mechanical Engineer | Problem Solver**
 
 
