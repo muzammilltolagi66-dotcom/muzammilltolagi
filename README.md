@@ -10,7 +10,6 @@ muzammill tolagi profile
 # 👨‍💻 Muzammill Tolagi
 **Mechanical Engineer | Problem Solver**
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=muzammilltolagi66-dotcom)
 
 </div>
 
